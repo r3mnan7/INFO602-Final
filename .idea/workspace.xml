@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Started modeling.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
       <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,7 +89,7 @@
       <updated>1708152487442</updated>
       <workItem from="1708152494534" duration="2154000" />
       <workItem from="1708154669864" duration="2033000" />
-      <workItem from="1708184673240" duration="31467000" />
+      <workItem from="1708184673240" duration="31794000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
@@ -124,7 +123,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708210188829</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
+      <option name="closed" value="true" />
+      <created>1708231461821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1708231461821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,6 +153,7 @@
     <MESSAGE value="Started working on converting R code to Python." />
     <MESSAGE value="Added data to project. Finished pre-processing pipeline and now ready to begin modeling." />
     <MESSAGE value="Started modeling." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started modeling." />
+    <MESSAGE value="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation." />
   </component>
 </project>
