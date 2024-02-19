@@ -5,6 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/article_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/article_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/article_data.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/bigger_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/old_article_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/old_article_data.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +39,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="INFO602_Final" />
@@ -89,7 +95,8 @@
       <updated>1708152487442</updated>
       <workItem from="1708152494534" duration="2154000" />
       <workItem from="1708154669864" duration="2033000" />
-      <workItem from="1708184673240" duration="31794000" />
+      <workItem from="1708184673240" duration="32594000" />
+      <workItem from="1708277858393" duration="5074000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
@@ -131,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708231461821</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
+      <option name="closed" value="true" />
+      <created>1708231773223</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708231773223</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
