@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
+      <change beforePath="$PROJECT_DIR$/.idea/INFO602_Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO602_Final.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/article_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/article_data.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/data/article_data.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/bigger_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/old_article_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/old_article_data.xlsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
