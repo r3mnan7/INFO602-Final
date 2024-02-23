@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
-      <change beforePath="$PROJECT_DIR$/.idea/INFO602_Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO602_Final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
@@ -78,7 +76,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
       </set>
     </attachedChunks>
   </component>
@@ -94,6 +92,8 @@
       <workItem from="1708154669864" duration="2033000" />
       <workItem from="1708184673240" duration="32594000" />
       <workItem from="1708277858393" duration="5074000" />
+      <workItem from="1708524617216" duration="2673000" />
+      <workItem from="1708708540872" duration="1343000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
