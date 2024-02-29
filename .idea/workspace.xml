@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling with SBERT. Need to perform analysis and perhaps tweak the model.">
-      <change afterPath="$PROJECT_DIR$/data/oaiData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/embedded_data.csv" afterDir="false" />
+    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/oaiData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/oaiData.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/embedded_data.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="C:\Users\poffm\PycharmProjects\INFO602-Final\data" />
     </key>
   </component>
@@ -83,7 +84,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -103,6 +104,7 @@
       <workItem from="1708708540872" duration="1343000" />
       <workItem from="1708799837197" duration="10666000" />
       <workItem from="1709167597426" duration="11270000" />
+      <workItem from="1709239651856" duration="2612000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
