@@ -76,7 +76,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5a2391486177-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13763.11" />
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
       </set>
     </attachedChunks>
   </component>
@@ -94,6 +94,8 @@
       <workItem from="1708277858393" duration="5074000" />
       <workItem from="1708524617216" duration="2673000" />
       <workItem from="1708708540872" duration="1343000" />
+      <workItem from="1708799837197" duration="10666000" />
+      <workItem from="1709167597426" duration="863000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
