@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
-      <change beforePath="$PROJECT_DIR$/.idea/INFO602_Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO602_Final.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Zero shot round 1 complete." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,7 +101,7 @@
       <workItem from="1709167597426" duration="11270000" />
       <workItem from="1709239651856" duration="2612000" />
       <workItem from="1709258024897" duration="1733000" />
-      <workItem from="1709259796512" duration="3646000" />
+      <workItem from="1709259796512" duration="4188000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
@@ -164,7 +159,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709169015004</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Zero shot round 1 complete.">
+      <option name="closed" value="true" />
+      <created>1709263702864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709263702864</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Zero shot round 1 complete.">
+      <option name="closed" value="true" />
+      <created>1709264006180</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709264006180</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +199,7 @@
     <MESSAGE value="Started modeling." />
     <MESSAGE value="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation." />
     <MESSAGE value="Finished modeling with SBERT. Need to perform analysis and perhaps tweak the model." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished modeling with SBERT. Need to perform analysis and perhaps tweak the model." />
+    <MESSAGE value="Zero shot round 1 complete." />
+    <option name="LAST_COMMIT_MESSAGE" value="Zero shot round 1 complete." />
   </component>
 </project>
