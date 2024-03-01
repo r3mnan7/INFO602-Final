@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Everything is setup for OpenAI Zero-Shot classification, haven't run yet. Before I do I want to make sure I'm not making a mistake in BART.">
+      <change beforePath="$PROJECT_DIR$/.idea/INFO602_Final.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/INFO602_Final.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
