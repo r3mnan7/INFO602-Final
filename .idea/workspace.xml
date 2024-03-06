@@ -106,6 +106,7 @@
       <workItem from="1709239651856" duration="2612000" />
       <workItem from="1709258024897" duration="1733000" />
       <workItem from="1709259796512" duration="12321000" />
+      <workItem from="1709323062669" duration="47000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
@@ -227,7 +228,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709322249632</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Visualization and analysis on OAI Zero is complete. Last step is to write an evaluation on the zero-shot section and finalize my report.">
+      <option name="closed" value="true" />
+      <created>1709322901672</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1709322901672</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
