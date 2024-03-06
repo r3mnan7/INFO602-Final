@@ -4,15 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Visualization and analysis on OAI Zero is complete. Last step is to write an evaluation on the zero-shot section and finalize my report.">
+    <list default="true" id="8610aba0-d114-499e-b0ed-52b0aef107b0" name="Changes" comment="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/poff-info602-final.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/poff-info602-final.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -22,6 +22,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -50,7 +53,6 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\poffm\PycharmProjects\INFO602_Final" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="C:\Users\poffm\PycharmProjects\INFO602-Final\data" />
     </key>
@@ -83,7 +85,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
       </set>
     </attachedChunks>
   </component>
@@ -104,9 +106,7 @@
       <workItem from="1708799837197" duration="10666000" />
       <workItem from="1709167597426" duration="11270000" />
       <workItem from="1709239651856" duration="2612000" />
-      <workItem from="1709258024897" duration="1733000" />
-      <workItem from="1709259796512" duration="12321000" />
-      <workItem from="1709323062669" duration="47000" />
+      <workItem from="1709748278649" duration="6189000" />
     </task>
     <task id="LOCAL-00001" summary="Started working on converting R code to Python.">
       <option name="closed" value="true" />
@@ -164,79 +164,7 @@
       <option name="project" value="LOCAL" />
       <updated>1709169015004</updated>
     </task>
-    <task id="LOCAL-00008" summary="Zero shot round 1 complete.">
-      <option name="closed" value="true" />
-      <created>1709263702864</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1709263702864</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Zero shot round 1 complete.">
-      <option name="closed" value="true" />
-      <created>1709264006180</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1709264006180</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Zero shot round 1 complete.">
-      <option name="closed" value="true" />
-      <created>1709264322491</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1709264322491</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Zero shot round 1 complete. Fixed">
-      <option name="closed" value="true" />
-      <created>1709264377788</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1709264377788</updated>
-    </task>
-    <task id="LOCAL-00012" summary="Zero shot round 1 complete. Fixed">
-      <option name="closed" value="true" />
-      <created>1709268091921</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1709268091921</updated>
-    </task>
-    <task id="LOCAL-00013" summary="Need to untangle gitignore">
-      <option name="closed" value="true" />
-      <created>1709268298474</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1709268298474</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Everything is setup for OpenAI Zero-Shot classification, haven't run yet. Before I do I want to make sure I'm not making a mistake in BART.">
-      <option name="closed" value="true" />
-      <created>1709270473987</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1709270473987</updated>
-    </task>
-    <task id="LOCAL-00015" summary="Visualization and analysis on OAI Zero is complete. Last step is to write an evaluation on the zero-shot section and finalize my report.">
-      <option name="closed" value="true" />
-      <created>1709322249632</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1709322249632</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Visualization and analysis on OAI Zero is complete. Last step is to write an evaluation on the zero-shot section and finalize my report.">
-      <option name="closed" value="true" />
-      <created>1709322901672</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1709322901672</updated>
-    </task>
-    <option name="localTasksCounter" value="17" />
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,11 +188,6 @@
     <MESSAGE value="Started modeling." />
     <MESSAGE value="Finished modeling using the SKL CBOW examples to benchmark eight different models with and without cross validation." />
     <MESSAGE value="Finished modeling with SBERT. Need to perform analysis and perhaps tweak the model." />
-    <MESSAGE value="Zero shot round 1 complete." />
-    <MESSAGE value="Zero shot round 1 complete. Fixed" />
-    <MESSAGE value="Need to untangle gitignore" />
-    <MESSAGE value="Everything is setup for OpenAI Zero-Shot classification, haven't run yet. Before I do I want to make sure I'm not making a mistake in BART." />
-    <MESSAGE value="Visualization and analysis on OAI Zero is complete. Last step is to write an evaluation on the zero-shot section and finalize my report." />
-    <option name="LAST_COMMIT_MESSAGE" value="Visualization and analysis on OAI Zero is complete. Last step is to write an evaluation on the zero-shot section and finalize my report." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished modeling with SBERT. Need to perform analysis and perhaps tweak the model." />
   </component>
 </project>
